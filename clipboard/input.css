@@ -24,6 +24,10 @@
   @apply max-w-3xl mx-auto leading-9 text-center text-grayishBlue;
 }
 
+.button {
+  @apply p-4 px-8 rounded-full shadow-lg duration-200 hover:opacity-80;
+}
+
 body {
   background-image: url("../images/bg-header-desktop.png");
   background-repeat: no-repeat;
