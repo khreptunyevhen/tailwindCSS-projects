@@ -4,6 +4,8 @@ Shortly landing page using TailwindCSS, HTML and JS
 
 ## Usage
 
+![Demo]()
+
 Install dependencies
 
 ```
